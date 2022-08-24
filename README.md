@@ -5,5 +5,5 @@ Same as the `tree` command.
 ## Usage
 
 ```
-$ treeview
+$ deno run --allow-read --allow-run ./src/main.ts
 ```
