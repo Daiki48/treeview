@@ -1,4 +1,4 @@
-import { join, resolve, parse } from "./deps.ts";
+import { join, resolve } from "./deps.ts";
 import { TreeEntry, TreeOptions } from "./utils/types.ts";
 
 const tree = async (
