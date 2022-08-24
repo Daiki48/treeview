@@ -1,0 +1,20 @@
+{
+	"lint": {
+		"files": {
+			"include": ["src"],
+			"exclude": []
+		}
+	},
+	"fmt": {
+		"files": {
+			"include": ["src"],
+			"exclude": []
+		},
+		"options": {
+			"useTabs": true,
+			"lineWidth": 100,
+			"indentWidth": 2,
+			"singleQuote": true
+		}
+	}
+}
